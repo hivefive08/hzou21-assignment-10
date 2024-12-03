@@ -1,0 +1,7 @@
+flask
+pandas
+torch
+torchvision
+open-clip-torch
+Pillow
+scikit-learn
